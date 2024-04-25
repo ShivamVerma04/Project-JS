@@ -1,0 +1,22 @@
+.box-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+}
+#yellow{
+    background-color: yellow;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
