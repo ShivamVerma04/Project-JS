@@ -1,0 +1,16 @@
+body{
+    background-color: #212121;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+#clock{
+    width: auto;
+    height: auto;
+    background-color: goldenrod;
+    border-radius: 5px;
+}
+h1{
+    margin-top: 50vh;
+}
